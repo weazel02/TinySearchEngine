@@ -1,0 +1,6 @@
+common.a
+file.o
+web.o
+webpage.o
+index.o
+word.o
